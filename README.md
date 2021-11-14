@@ -2,7 +2,7 @@
 
 This java project objective was to build a digital clock using Java and the Swing library to gain a high level understanding of Java programming. The use of loops, variables, conditionals, arrays, functions and classes are used to build this project. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HLbhqymTU5Y)
 
 # Development Environment
 
